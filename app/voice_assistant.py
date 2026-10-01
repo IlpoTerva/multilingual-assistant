@@ -1,0 +1,6 @@
+
+class Speaker():
+    ...
+
+class Listener():
+    ...
